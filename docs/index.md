@@ -5,7 +5,7 @@
 
 # To Do Script
 
-## Introduction
+### Introduction
 
 	For assignment 07 for the class Foundations of Programming: Python I worked on a python script that pickles a file, loads and prints the unpickled file, and ends the program.
 Creating the Script
