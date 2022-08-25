@@ -1,7 +1,7 @@
 ###### August 25, 2022
 ###### Foundations of Programming: Python
 ###### Assignment 07
-###### (repo)[https://github.com/kbev12/IntroToProg-Python-Mod07]
+###### [repo](https://github.com/kbev12/IntroToProg-Python-Mod07)
 
 # To Do Script
 
